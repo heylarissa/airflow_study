@@ -4,3 +4,5 @@ airflow.db
 __pycache__
 *.pyc
 logs
+standalone_admin_password.txt
+airflow-webserver.pid
